@@ -1,2 +1,5 @@
-# spring-introduction
-Spring Boot, Web MVC, and Database fundamentals — Inflearn study
+# 학습 노트
+
+섹션별 학습 내용을 이 폴더에 정리합니다.
+
+예: `02-프로젝트-환경설정.md`, `03-스프링-웹-개발-기초.md`
